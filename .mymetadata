@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project-module
   type="WEB"
-  name="SMContiy"
+  name="SM_Contiy"
   id="myeclipse.1458290392878"
   context-root="/SMContiy"
   j2ee-spec="5.0"
-  archive="SMContiy.war">
+  archive="SM_Contiy.war">
   <attributes>
     <attribute name="webrootdir" value="Web" />
   </attributes>
